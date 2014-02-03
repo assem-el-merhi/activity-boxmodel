@@ -16,7 +16,7 @@ html {
 	-moz-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
-	text-size-adjust: 100%;
+	 text-size-adjust: 100%;
     
     font-size: 100%;
     
@@ -120,9 +120,6 @@ hr {
     border-bottom: dashed 5px #fcce19
 }
 
-body {
-    background-color: #d0d0d0
-}
 
     
     
